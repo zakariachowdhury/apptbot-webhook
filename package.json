@@ -1,0 +1,29 @@
+{
+  "name": "apptbot-webhook",
+  "version": "1.0.0",
+  "description": "Webhook for Appointment Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakariachowdhury/apptbot-webhook.git"
+  },
+  "keywords": [
+    "chatbot",
+    "appointment",
+    "facebook",
+    "messenger"
+  ],
+  "author": "Zakaria Chowdhury",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zakariachowdhury/apptbot-webhook/issues"
+  },
+  "homepage": "https://github.com/zakariachowdhury/apptbot-webhook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
